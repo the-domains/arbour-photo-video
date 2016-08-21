@@ -1,22 +1,22 @@
 ---
-author: []
-datePublished: '2016-07-22T16:56:49.564Z'
-via: {}
-title: corporatif + industriel + pub
-publisher: {}
-description: ''
-dateModified: '2016-07-22T16:56:22.698Z'
+datePublished: '2016-08-21T20:23:40.248Z'
+sourcePath: _posts/2016-07-22-corporatif-industriel-pub.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c309bfab-8370-419d-ac13-7b0aea9896c5.jpg
+author: []
+via: {}
+dateModified: '2016-08-21T20:23:39.943Z'
+title: corporatif + industriel + pub
+publisher: {}
+description: 'Client: BG Architectes. '
 starred: false
-sourcePath: _posts/2016-07-22-corporatif-industriel-pub.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c309bfab-8370-419d-ac13-7b0aea9896c5.jpg)
+![Client: BG Architectes. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c309bfab-8370-419d-ac13-7b0aea9896c5.jpg)
 
 ### corporatif + industriel + pub
 
